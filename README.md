@@ -1,5 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorcuches/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=14A70D&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+there!+I'm+Victor+Cuches" alt="Typing SVG" /></a>
@@ -25,10 +23,11 @@ const VictorCuches = {
 
 ### Projects and Dev Stuffs:
 
-<details>	
+<details >	
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCuches&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCuches&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCuches&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </p>
 </details>
