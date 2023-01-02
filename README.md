@@ -1,6 +1,16 @@
 ### Hi there 👋 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=14A70D&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+there!+I'm+Victor+Cuches" alt="Typing SVG" /></a>
+</p
 
-### <img src="https://media1.giphy.com/media/GFtsjaDVJnoNa/200w.webp?cid=ecf05e47womki3k2ilvingpznbamzd5wzguz3nrefqut15mc&rid=200w.webp&ct=s" width="20"> A little more about me...
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=14A70D&center=true&width=435&lines=Always+learning+new+things;Web+developer)](https://git.io/typing-svg" /></a>
+</p>
+
+<p>
+<img src="https://media1.giphy.com/media/GFtsjaDVJnoNa/200w.webp?cid=ecf05e47womki3k2ilvingpznbamzd5wzguz3nrefqut15mc&rid=200w.webp&ct=s" width="20"> A little more about me...
 
 ```javascript
 const VictorCuches = {
@@ -12,6 +22,7 @@ const VictorCuches = {
   challenge: "I’m currently learning React"
 }
 ```
+</p>
 
 ### Projects and Dev Stuffs:
 
